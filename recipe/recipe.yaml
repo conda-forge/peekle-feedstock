@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.0.5"
+  version: "0.0.6"
 
 package:
   name: peekle
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/p/peekle/peekle-${{ version }}.tar.gz
-  sha256: 110e3cee71fa0f02b029a0ce2fff4b3fc72253dcc644f473f0f87238aea3315c
+  sha256: 24b527934fd8856fce61aa784eb88c174bcb070bac33418218181ca83b307e42
 
 build:
   number: 0
